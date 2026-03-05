@@ -64,7 +64,6 @@ https://github.com/Alm798/example-teamcity
 
 https://github.com/Alm798/example-teamcity/tree/main/.teamcity
 
-![Screen20](https://github.com/Alm798/TeamCity/blob/main/img/Screen20.png)
 
 9. Создайте отдельную ветку `feature/add_reply` в репозитории.
 
