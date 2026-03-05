@@ -35,7 +35,7 @@ https://github.com/Alm798/example-teamcity
 
 2. Сделайте autodetect конфигурации.
 
-![Screen12](https://github.com/Alm798/TeamCity/blob/main/img/12.png)
+![Screen12](https://github.com/Alm798/TeamCity/blob/main/img/Screen12.png)
 ![Screen13](https://github.com/Alm798/TeamCity/blob/main/img/Screen13.png)
 
 3. Сохраните необходимые шаги, запустите первую сборку master.
